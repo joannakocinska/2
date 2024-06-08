@@ -1,0 +1,22 @@
+{
+  "shoes": [
+    {
+      "name": "jakies buty",
+      "color": "zielony",
+      "brand": "abibas",
+      "pucharsedate": "2022-10-31",
+      "shop": "bazarek",
+      "size": 38,
+      "description" : "jade na bazarek kupic troche czasu troche minutek troche godzinek"
+    },
+    {
+      "name": "laczki",
+      "color": "zulty",
+      "brand": "guczi",
+      "pucharsedate": "2001-03-13",
+      "shop": "biedronka",
+      "size": 35,
+      "description": "szmexy lacze popierdalacze"
+    }
+  ]
+}
